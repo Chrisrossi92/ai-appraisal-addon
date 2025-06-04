@@ -1,0 +1,14 @@
+{
+  "name": "ai-appraisal-addon",
+  "version": "1.0.0",
+  "description": "Word add-in to assist appraisers with AI",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "office-js": "^1.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
